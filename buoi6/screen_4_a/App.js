@@ -13,7 +13,7 @@ const data = [
   {
     image: require('./assets/ca_nau_lau.png'),
     title: 'Ca nấu lẩu, nấu mì mini',
-    shopName: 'Devang',
+    shopName: 'De vang',
   },
   {
     image: require('./assets/ga_bo_toi.png'),
